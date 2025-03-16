@@ -24,7 +24,7 @@ This project is a **dynamic and interactive Quiz Application** developed using *
 ### 1️. Clone the Repository
 Clone the repository from GitHub:
 ```sh
-    git clone <your-repo-url>
+git clone <your-repo-url>
 ```
 ### 2. Navigate to the Project Directory
 ```sh
@@ -44,12 +44,8 @@ npm start
 This application fetches quiz data from the **Open Trivia Database API**.
 
 🔗 [Open Trivia Database API](https://opentdb.com/api_config.php)
- ## 6.View Demo
-
-To run the application locally, start the development server and open the following URL in your browser:  
-
-🔗 [http://localhost:3008/](http://localhost:3008/)
-## 7.Screenshots
+ 
+## 6.Screenshots
 ![Screenshot (79)](https://github.com/user-attachments/assets/ca26a083-1543-4cab-a167-10db84b7235c)
 ![Screenshot (80)](https://github.com/user-attachments/assets/040db4b2-009f-41d8-9623-60d0dd4dcdc6)
 ![Screenshot (82)](https://github.com/user-attachments/assets/ce9755c8-70f4-4a3b-9434-6825474380ec)
