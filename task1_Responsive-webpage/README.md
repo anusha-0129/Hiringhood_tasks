@@ -36,17 +36,9 @@ You can view the output by opening the following link in your browser:
 3.Open countdown_timer.html in any modern browser.
 
 ---
----
+## **6.Screenshots**
 
-## **6. Screenshots**  
-
-![alttext](Screenshot (75).png)  
-
-![alttext](Screenshot (76).png)  
-
-![alttext](Screenshot (77).png)  
- 
-![alttext](Screenshot (78).png)  
-
-
-
+![alt text](<Screenshot (75).png>)
+![alt text](<Screenshot (77).png>)
+![alt text](<Screenshot (76).png>)
+![alt text](<Screenshot (78).png>)
