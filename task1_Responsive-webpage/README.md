@@ -35,4 +35,18 @@ You can view the output by opening the following link in your browser:
 2.Navigate to the task1_Responsive-webpage folder.
 3.Open countdown_timer.html in any modern browser.
 
+---
+---
+
+## **6. Screenshots**  
+
+![alttext](Screenshot (75).png)  
+
+![alttext](Screenshot (76).png)  
+
+![alttext](Screenshot (77).png)  
+ 
+![alttext](Screenshot (78).png)  
+
+
 
