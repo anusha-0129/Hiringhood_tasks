@@ -36,9 +36,12 @@ You can view the output by opening the following link in your browser:
 3.Open countdown_timer.html in any modern browser.
 
 ---
-## **6.Screenshots**
+## **6. Screenshots**
 
-![alt text](<Screenshot (75).png>)
-![alt text](<Screenshot (77).png>)
-![alt text](<Screenshot (76).png>)
-![alt text](<Screenshot (78).png>)
+![Screenshot (75)](https://github.com/user-attachments/assets/05fc9b78-c0e8-43a0-b3ca-c7d75d82aa5e)
+![Screenshot (77)](https://github.com/user-attachments/assets/ec71ee06-017f-4a29-b13d-7496658ed270)
+![Screenshot (76)](https://github.com/user-attachments/assets/7c4406c9-1110-4dc3-9441-51b54cf5a4d0)
+![Screenshot (78)](https://github.com/user-attachments/assets/3f3da8cb-3c75-4969-8e95-278f3917673d)
+
+
+
