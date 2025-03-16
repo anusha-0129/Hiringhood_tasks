@@ -31,4 +31,11 @@ You can view the output by opening the following link in your browser:
 
 ## 6. Screenshots
 ![Screenshot (12)](https://github.com/user-attachments/assets/2913a0b4-00cd-4d2b-adb4-9877b4fc1eb0)
+![Screenshot (15)](https://github.com/user-attachments/assets/3e367887-2f09-4ca0-bcd2-43735a9fc6f5)
+![Screenshot (16)](https://github.com/user-attachments/assets/92dd6b40-c066-4084-b571-4b39eaf3a0af)
+![Screenshot (21)](https://github.com/user-attachments/assets/c62e2e6a-0fb5-4ad7-b11d-12fd22bddc32)
+![Screenshot (17)](https://github.com/user-attachments/assets/80f34cdc-b49d-43fd-b7f2-568bfa1bf9f3)
+![Screenshot (23)](https://github.com/user-attachments/assets/50ee0c57-d1e5-4bb0-a9e8-39a052b788d6)
+
+
 
