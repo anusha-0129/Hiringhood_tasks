@@ -20,23 +20,20 @@ This project is a **responsive event countdown timer** built using **HTML, CSS, 
 
 ---
 
-## **4. Demo**  
-You can view the output by opening the following link in your browser:  
-
-🔗 [http://127.0.0.1:3002/task1_Responsive-webpage/countdown_timer.html](http://127.0.0.1:3002/task1_Responsive-webpage/countdown_timer.html)
-
----
-
   
-## **5. Setup & Execution**  
-1. Clone the repository:  
+## **4. Setup & Execution**  
+### 1. Clone the repository:  
    ```sh
    git clone <your-repo-url>
-   2.Navigate to the task1_Responsive-webpage folder.
-   3.Open countdown_timer.html in any modern browser.
+   ```
+### 2. Navigate to the task1_Responsive-webpage folder.
+   ```sh
+   cd task1_Responsive-webpage
+```
+### 3. Open countdown_timer.html in any modern browser.
 ---
 
-## **6. Screenshots**
+## **5. Screenshots**
 
 ![Screenshot (75)](https://github.com/user-attachments/assets/05fc9b78-c0e8-43a0-b3ca-c7d75d82aa5e)
 ![Screenshot (77)](https://github.com/user-attachments/assets/ec71ee06-017f-4a29-b13d-7496658ed270)
