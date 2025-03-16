@@ -37,12 +37,8 @@ npm install
 npm start
 ```
 The application will run on http://localhost:3009/
-## 5. View Demo  
 
-To test the application, start the development server and open:  
-
-🔗 [http://localhost:3009/](http://localhost:3009/)
-## 6. Screenshots
+## 5. Screenshots
 ![Screenshot (54)](https://github.com/user-attachments/assets/39afe946-aec5-45a0-b480-d91ea7951e30)
 ![Screenshot (56)](https://github.com/user-attachments/assets/40d0be7f-8ac4-40de-93a5-0d81311df7e7)
 ![Screenshot (73)](https://github.com/user-attachments/assets/69e22885-5387-47b8-9a83-46c877bc5e2e)
