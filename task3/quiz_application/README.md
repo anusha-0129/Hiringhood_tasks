@@ -25,12 +25,11 @@ This project is a **dynamic and interactive Quiz Application** developed using *
 Clone the repository from GitHub:
     ```sh
     git clone <your-repo-url>
-    cd task3/quiz_application
 ### 2. Navigate to the Project Directory
 cd task3/quiz_application
-### 2.Install Dependencies
+### 3.Install Dependencies
 npm install
-### 3. Start the Development Server
+### 4. Start the Development Server
 npm start
 The application will run on http://localhost:3008.
 ## 5. API Used
