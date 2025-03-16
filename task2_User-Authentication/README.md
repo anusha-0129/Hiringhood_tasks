@@ -24,12 +24,8 @@ This project implements a **user authentication system** with **client-side vali
 3. Open `auth_form.html` in a browser.  
 4. Register a new user and log in with the same credentials.  
 
-## 5. Demo  
-You can view the output by opening the following link in your browser:  
 
-[Click here to view the demo](http://127.0.0.1:3002/task2_User-Authentication/auth_form.html)  
-
-## 6. Screenshots
+## 5. Screenshots
 ![Screenshot (12)](https://github.com/user-attachments/assets/2913a0b4-00cd-4d2b-adb4-9877b4fc1eb0)
 ![Screenshot (15)](https://github.com/user-attachments/assets/3e367887-2f09-4ca0-bcd2-43735a9fc6f5)
 ![Screenshot (16)](https://github.com/user-attachments/assets/92dd6b40-c066-4084-b571-4b39eaf3a0af)
