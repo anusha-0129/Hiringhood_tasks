@@ -23,14 +23,22 @@ This project is a **dynamic and interactive Quiz Application** developed using *
 
 ### 1️. Clone the Repository
 Clone the repository from GitHub:
-    git clone your-repo-url
+```sh
+    git clone <your-repo-url>
+```
 ### 2. Navigate to the Project Directory
+```sh
 cd task3/quiz_application
+```
 ### 3.Install Dependencies
+```sh
 npm install
+```
 ### 4. Start the Development Server
+```sh
 npm start
-The application will run on http://localhost:3008.
+```
+
 ## 5. API Used
 
 This application fetches quiz data from the **Open Trivia Database API**.
