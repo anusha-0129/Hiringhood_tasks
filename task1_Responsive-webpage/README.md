@@ -28,14 +28,14 @@ You can view the output by opening the following link in your browser:
 ---
 
 ## **5. Setup & Execution**  
-1️. Clone the repository:  
+## **5. Setup & Execution**  
+1. Clone the repository:  
    ```sh
    git clone <your-repo-url>
-    ```
-2.Navigate to the task1_Responsive-webpage folder.
-3.Open countdown_timer.html in any modern browser.
-
+Navigate to the task1_Responsive-webpage folder.
+Open countdown_timer.html in any modern browser.
 ---
+
 ## **6. Screenshots**
 
 ![Screenshot (75)](https://github.com/user-attachments/assets/05fc9b78-c0e8-43a0-b3ca-c7d75d82aa5e)
