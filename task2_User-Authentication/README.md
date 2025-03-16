@@ -29,3 +29,6 @@ You can view the output by opening the following link in your browser:
 
 [Click here to view the demo](http://127.0.0.1:3002/task2_User-Authentication/auth_form.html)  
 
+## 6. Screenshots
+![Screenshot (12)](https://github.com/user-attachments/assets/2913a0b4-00cd-4d2b-adb4-9877b4fc1eb0)
+
