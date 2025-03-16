@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background:  linear-gradient(135deg, #6a0dad, #ff1493); 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.box {
+    width: 90%;
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.15);
+    padding: 25px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(12px);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+input, button {
+    padding: 12px;
+    margin: 12px 0;
+    width: 100%;
+    font-size: 17px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+
+input {
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+}
+
+button {
+    background: linear-gradient(90deg, #ff8c00, #ff4500);
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+    font-weight: bold;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #ff4500, #ff8c00);
+    transform: scale(1.05);
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.time div {
+    width: 85px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4);
+    color: #ffd700;
+    border-radius: 12px;
+    font-size: 19px;
+    font-weight: bold;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.time div p {
+    font-size: 30px;
+    margin: 5px 0;
+}
+
+.time div span {
+    font-size: 15px;
+}
+
+@media (max-width: 600px) {
+    .box {
+        width: 95%;
+        padding: 18px;
+    }
+    .time {
+        flex-wrap: wrap;
+    }
+    .time div {
+        width: 70px;
+        height: 90px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+}

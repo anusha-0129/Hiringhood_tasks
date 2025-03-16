@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Event Countdown Timer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="box">
+        <h1>Event Timer</h1>
+        <input type="datetime-local" id="userDate" min="">
+        <button onclick="setCountdown()">Start Countdown</button>
+        <div class="time">
+            <div><p id="days">00</p><span>Days</span></div>
+            <div><p id="hours">00</p><span>Hours</span></div>
+            <div><p id="minutes">00</p><span>Minutes</span></div>
+            <div><p id="seconds">00</p><span>Seconds</span></div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
