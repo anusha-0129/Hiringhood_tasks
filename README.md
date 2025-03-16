@@ -29,7 +29,7 @@ An **interactive quiz platform** developed using **ReactJS**, where users can an
 ---
 
 ### 4️. **Todo Application ✅**  
-A **modern and intuitive task management app** built with **ReactJS and Framer Motion**. Users can **add, update, and delete tasks** while enjoying a visually engaging experience with smooth animations. Future updates will include **API integration for data persistence**.  
+A **modern and intuitive task management app** built with **ReactJS and Framer Motion**. Users can **add, update, and delete tasks** while enjoying a visually engaging experience with smooth animations.   
 
  **More details**: [Todo Application/README.md](task4/todo/README.md)  
 
