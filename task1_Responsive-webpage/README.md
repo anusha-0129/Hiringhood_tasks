@@ -6,10 +6,10 @@ This project is a **responsive event countdown timer** built using **HTML, CSS, 
 ---
 
 ## **2. Features**  
-- ✅ Set a countdown timer for an upcoming event  
-- ✅ Timer persists across page refreshes using **local storage**  
-- ✅ Fully responsive design for all screen sizes  
-- ✅ Interactive and user-friendly UI  
+-  Set a countdown timer for an upcoming event  
+-  Timer persists across page refreshes using **local storage**  
+-  Fully responsive design for all screen sizes  
+-  Interactive and user-friendly UI  
 
 ---
 
