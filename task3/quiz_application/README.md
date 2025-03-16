@@ -23,8 +23,8 @@ This project is a **dynamic and interactive Quiz Application** developed using *
 
 ### 1️. Clone the Repository
 Clone the repository from GitHub:
-    ```sh
-    git clone <your-repo-url>
+```sh
+git clone <your-repo-url>
 ### 2. Navigate to the Project Directory
 cd task3/quiz_application
 ### 3.Install Dependencies
