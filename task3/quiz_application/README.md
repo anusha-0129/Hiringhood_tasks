@@ -30,11 +30,16 @@ git clone <your-repo-url>
 ```sh
 cd task3/quiz_application
 ```
-### 3.Install Dependencies
+### 3. Create a .env File and Set API URL
+```sh
+REACT_APP_API_URL=your_api_url
+```
+Replace your_api_url with your actual api_url
+### 4.Install Dependencies
 ```sh
 npm install
 ```
-### 4. Start the Development Server
+### 5. Start the Development Server
 ```sh
 npm start
 ```
